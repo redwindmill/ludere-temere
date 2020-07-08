@@ -1,0 +1,22 @@
+[ req ]
+prompt				= no
+default_bits		= 4096
+distinguished_name	= req_distinguished_name
+req_extensions		= req_ext
+
+[ req_distinguished_name ]
+countryName				= US
+stateOrProvinceName		= New York
+localityName			= New New York
+organizationName		= Planet Express
+organizationalUnitName	= Cargo
+commonName				= *.plexpress.local
+
+[ req_ext ]
+keyUsage			= keyEncipherment, dataEncipherment
+extendedKeyUsage	= serverAuth, clientAuth
+subjectAltName		= @alt_names
+
+[ alt_names ]
+DNS.1 = *.plexpress.local
+DNS.2 = localhost

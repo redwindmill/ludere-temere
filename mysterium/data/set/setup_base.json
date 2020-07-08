@@ -1,0 +1,109 @@
+[
+	{
+		"players"		:2,
+		"mode"			:"original",
+		"kinds":[
+			"suspect",
+			"location",
+			"object",
+			"story"
+		],
+		"num_cards":{
+			"easy"		:4,
+			"normal"	:5,
+			"hard"		:6,
+			"insane"	:7,
+			"nightmare"	:8
+		}
+	},
+
+	{
+		"players"		:3,
+		"mode"			:"original",
+		"kinds":[
+			"suspect",
+			"location",
+			"object",
+			"story"
+		],
+		"num_cards":{
+			"easy"		:5,
+			"normal"	:6,
+			"hard"		:7,
+			"insane"	:8,
+			"nightmare"	:9
+		}
+	},
+
+	{
+		"players"		:4,
+		"mode"			:"original",
+		"kinds":[
+			"suspect",
+			"location",
+			"object",
+			"story"
+		],
+		"num_cards":{
+			"easy"		:5,
+			"normal"	:6,
+			"hard"		:7,
+			"insane"	:8,
+			"nightmare"	:9
+		}
+	},
+
+	{
+		"players"		:5,
+		"mode"			:"original",
+		"kinds":[
+			"suspect",
+			"location",
+			"object",
+			"story"
+		],
+		"num_cards":{
+			"easy"		:6,
+			"normal"	:7,
+			"hard"		:8,
+			"insane"	:9,
+			"nightmare"	:10
+		}
+	},
+
+	{
+		"players"		:6,
+		"mode"			:"original",
+		"kinds":[
+			"suspect",
+			"location",
+			"object",
+			"story"
+		],
+		"num_cards":{
+			"easy"		:6,
+			"normal"	:8,
+			"hard"		:9,
+			"insane"	:10,
+			"nightmare"	:11
+		}
+	},
+
+	{
+		"players"		:7,
+		"mode"			:"original",
+		"kinds":[
+			"suspect",
+			"location",
+			"object",
+			"story"
+		],
+		"num_cards":{
+			"easy"		:7,
+			"normal"	:8,
+			"hard"		:9,
+			"insane"	:10,
+			"nightmare"	:12
+		}
+	}
+]

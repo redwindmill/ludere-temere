@@ -2,3 +2,4 @@
 *.DS_Store
 rgpwd-go/bin/
 docker-rpi/tmp/
+docker-rpi/haproxy/tmp

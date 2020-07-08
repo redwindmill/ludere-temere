@@ -1,0 +1,127 @@
+[
+	{
+		"id"	:"HS1",
+		"kind"	:"suspect",
+		"desc"	:"maid",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS2",
+		"kind"	:"suspect",
+		"desc"	:"toy-maker",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS3",
+		"kind"	:"suspect",
+		"desc"	:"architect",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS4",
+		"kind"	:"suspect",
+		"desc"	:"horse-jockey",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS5",
+		"kind"	:"suspect",
+		"desc"	:"perfumer",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS6",
+		"kind"	:"suspect",
+		"desc"	:"metalworker",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS7",
+		"kind"	:"location",
+		"desc"	:"store-room",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS8",
+		"kind"	:"location",
+		"desc"	:"grove",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS9",
+		"kind"	:"location",
+		"desc"	:"entryway",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS10",
+		"kind"	:"location",
+		"desc"	:"laundry-room",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS11",
+		"kind"	:"location",
+		"desc"	:"stoop",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS12",
+		"kind"	:"location",
+		"desc"	:"laboratory",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS13",
+		"kind"	:"object",
+		"desc"	:"toy-block",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS14",
+		"kind"	:"object",
+		"desc"	:"bellow",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS15",
+		"kind"	:"object",
+		"desc"	:"leghold-trap",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS16",
+		"kind"	:"object",
+		"desc"	:"stamp",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS17",
+		"kind"	:"object",
+		"desc"	:"ice-skate",
+		"set"	:"hidden-signs"
+	},
+
+	{
+		"id"	:"HS18",
+		"kind"	:"object",
+		"desc"	:"golf-wedge",
+		"set"	:"hidden-signs"
+	}
+]

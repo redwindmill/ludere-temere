@@ -1,0 +1,73 @@
+[
+	{
+		"id"			:"1",
+		"kind"			:"psychic",
+		"set"			:"base",
+
+		"color"			:"purple",
+		"name"			:"Jessalyn Smith",
+		"speciality"	:"Tarot reading",
+		"nationality"	:"American",
+		"story"			:"Jessalyn was married at a very young age to a wealthy and frequently absent factory owner, and is profoundly board ... At home in Rochester, New York, she would regularly read teh tarot cards with friends. When one of her friends lost her young daughter to pneumonia, she decided to organize a tarot seance to make contact with the child's spirit. It was then that she discovered that she was a powerful psychic, and many Rochester citizens have since sought her help. News of her gift spread, and before long, people were coming to her from across the nation to contact dead loved ones. She quite naturally accepted Sir Conrad MacDowell's request for assistance, particularly as she had always dreamed of visiting Scotland."
+	},
+
+	{
+		"id"			:"2",
+		"kind"			:"psychic",
+		"set"			:"base",
+
+		"color"			:"yellow",
+		"name"			:"Alma Salvador",
+		"speciality"	:"Pendulum divination",
+		"nationality"	:"Spanish",
+		"story"			:"Orphaned as a young child, Alma was taken in and brought up in a convent. She stumbled upon her gift at the age of eight, while playing with a watch chain left behind by an absent-minded visitor. She subsequently used her talents to help other orphans find their families. The nuns learned of her unorthodox activities when she was twelve, and expelled her from the convent for witchcraft. Thanks to her ability to locate the soul of any human being she is able to earn a living; she also helps the poor track down missing relatives. Her charitable nature prompted her to accept Sir Conrad's request to help save a lost soul."
+	},
+
+	{
+		"id"			:"3",
+		"kind"			:"psychic",
+		"set"			:"base",
+
+		"color"			:"blue",
+		"name"			:"Alphonse de Belcour",
+		"speciality"	:"Numerology",
+		"nationality"	:"French",
+		"story"			:"Alphonse was born into the French aristocracy, in a family with close ties to clan MacDowell. Alphonse's brother fought and died on the battlefield at Verdun while Alphonse was at home studying for a doctorate in mathematics. Shattered by the news, he sought comfort by throwing himself into his research, in time realising that the amazing secret properties of numbers can be harnessed by those able to interpret them. Alphonse's research into the science of numbers has enabled him to partially decipher hidden messages embedded in major text from around the world. When he presented his thesis, his peers were unanimous: Alphonse would either revolutionize science or be ridiculed as a crackpot! He has agreed to travel to the manor out of friendship for Conrad MacDowell."
+	},
+
+	{
+		"id"			:"4",
+		"kind"			:"psychic",
+		"set"			:"base",
+
+		"color"			:"black",
+		"name"			:"Conrad MacDowell",
+		"speciality"	:"Crystal gazing",
+		"nationality"	:"Scottish",
+		"story"			:"Conrad is a weathy Scottish nobleman of clan MacDowell, which traces its ancestry back through seventeen generations. At the age of eighteen, he inherited his grand-mother Moira's crystal ball. Despite a promising academic record and the prospect of a brilliant military career, he instead chose a path as a crystal-gazing clairvoyant. HIs clientele includes numerous eminent figures. No doubt thanks to his second sight, he returned unscathed from the war in 1918. After this turbulent period, he decided to set up home in the recently-inherited family manor, where he immediately felt a strange supernatural presence ..."
+	},
+
+	{
+		"id"			:"5",
+		"kind"			:"psychic",
+		"set"			:"base",
+
+		"color"			:"red",
+		"name"			:"Madam Wang",
+		"speciality"	:"I-Ching (bibliomancy)",
+		"nationality"	:"Chinese",
+		"story"			:"Scouted at an early age by a secret society studying I-Ching, she left her family to learn to master her gift. She was then free to devote herself to the study of this ancient test, processing in leaps and bounds. She specialized in communicating with ancestors and exploring past lives. In times of political upheaval in China, leading figures sought to outdo their rivals with the aid of her clairvoyancy. Madam Wang tired of seeing her gift used for political gain and decided to retire and travel China, helping local people along the way. It was during this journey that her colleague, Sir Conrad MacDowell, requested her assistance in solving an old mystery."
+	},
+
+	{
+		"id"			:"6",
+		"kind"			:"psychic",
+		"set"			:"base",
+
+		"color"			:"white",
+		"name"			:"Ardhashir",
+		"speciality"	:"Talisman",
+		"nationality"	:"Ottoman",
+		"story"			:"A talent for divination has been passed down through the generations in Ardhashir's family. The powerful Amajlije talisman, which has been in the family's possession for centuries, focuses and amplifies their psychic powers. Although the family has traditionally served the Sultan, Ardhashir chose a different path, setting off to explore the wider world. After spending years travelling and perfecting his craft, he returned to his home country to practice divination with the aid of his talisman. He has since earned a considerable reputation among leaders from all around the world. the air of mystery surrounding Sir Conrad MacDowell's manor was a big factor in his decision to ravel to Scotland."
+	}
+]

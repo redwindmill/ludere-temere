@@ -1,0 +1,379 @@
+[
+	{
+		"id"	:"1",
+		"kind"	:"suspect",
+		"desc"	:"magician",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"2",
+		"kind"	:"suspect",
+		"desc"	:"nun",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"3",
+		"kind"	:"suspect",
+		"desc"	:"professor",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"4",
+		"kind"	:"suspect",
+		"desc"	:"soldier",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"5",
+		"kind"	:"suspect",
+		"desc"	:"auto-racer",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"6",
+		"kind"	:"suspect",
+		"desc"	:"chef",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"7",
+		"kind"	:"suspect",
+		"desc"	:"archaeologist",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"8",
+		"kind"	:"suspect",
+		"desc"	:"hunter",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"9",
+		"kind"	:"suspect",
+		"desc"	:"postman",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"10",
+		"kind"	:"suspect",
+		"desc"	:"aristocrat",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"11",
+		"kind"	:"suspect",
+		"desc"	:"watchmaker",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"12",
+		"kind"	:"suspect",
+		"desc"	:"doctor",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"13",
+		"kind"	:"suspect",
+		"desc"	:"musician",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"14",
+		"kind"	:"suspect",
+		"desc"	:"sculptor",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"15",
+		"kind"	:"suspect",
+		"desc"	:"barber",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"16",
+		"kind"	:"suspect",
+		"desc"	:"seamstress",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"17",
+		"kind"	:"suspect",
+		"desc"	:"policeman",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"18",
+		"kind"	:"suspect",
+		"desc"	:"grocer",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"19",
+		"kind"	:"location",
+		"desc"	:"kitchen",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"20",
+		"kind"	:"location",
+		"desc"	:"attic",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"21",
+		"kind"	:"location",
+		"desc"	:"master-bedroom",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"22",
+		"kind"	:"location",
+		"desc"	:"shrine",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"23",
+		"kind"	:"location",
+		"desc"	:"greenhouse",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"24",
+		"kind"	:"location",
+		"desc"	:"shed",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"25",
+		"kind"	:"location",
+		"desc"	:"washroom",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"26",
+		"kind"	:"location",
+		"desc"	:"gazebo",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"27",
+		"kind"	:"location",
+		"desc"	:"bedroom",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"28",
+		"kind"	:"location",
+		"desc"	:"den",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"29",
+		"kind"	:"location",
+		"desc"	:"library",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"30",
+		"kind"	:"location",
+		"desc"	:"lounge",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"31",
+		"kind"	:"location",
+		"desc"	:"study",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"32",
+		"kind"	:"location",
+		"desc"	:"foyer",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"33",
+		"kind"	:"location",
+		"desc"	:"garage",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"34",
+		"kind"	:"location",
+		"desc"	:"cellar",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"35",
+		"kind"	:"location",
+		"desc"	:"pantry",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"36",
+		"kind"	:"location",
+		"desc"	:"pool",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"37",
+		"kind"	:"object",
+		"desc"	:"fork",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"38",
+		"kind"	:"object",
+		"desc"	:"iron",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"39",
+		"kind"	:"object",
+		"desc"	:"dumbbell",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"40",
+		"kind"	:"object",
+		"desc"	:"hammer",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"41",
+		"kind"	:"object",
+		"desc"	:"skillet",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"42",
+		"kind"	:"object",
+		"desc"	:"razor",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"43",
+		"kind"	:"object",
+		"desc"	:"clock",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"44",
+		"kind"	:"object",
+		"desc"	:"candlestick",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"45",
+		"kind"	:"object",
+		"desc"	:"chest",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"46",
+		"kind"	:"object",
+		"desc"	:"rope",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"47",
+		"kind"	:"object",
+		"desc"	:"syringe",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"48",
+		"kind"	:"object",
+		"desc"	:"shears",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"49",
+		"kind"	:"object",
+		"desc"	:"pistol",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"50",
+		"kind"	:"object",
+		"desc"	:"typewriter",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"51",
+		"kind"	:"object",
+		"desc"	:"stool",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"52",
+		"kind"	:"object",
+		"desc"	:"vase",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"53",
+		"kind"	:"object",
+		"desc"	:"statue",
+		"set"	:"base"
+	},
+
+	{
+		"id"	:"54",
+		"kind"	:"object",
+		"desc"	:"vial",
+		"set"	:"base"
+	}
+]

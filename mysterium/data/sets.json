@@ -1,0 +1,42 @@
+[
+	{
+		"id"		:"base",
+		"setup"		:"set/setup_base.json",
+		"rules"		:"set/rules_original.json",
+		"visions"	: 84,
+		"cards":[
+			"set/cards_base.json",
+			"set/psychics_base.json"
+		]
+	},
+
+	{
+		"id"		:"promo-2015",
+		"setup"		: null,
+		"rules"		: null,
+		"visions"	: 0,
+		"cards":[
+			"set/cards_promo.json"
+		]
+	},
+
+	{
+		"id"		:"hidden-signs",
+		"setup"		: null,
+		"rules"		: null,
+		"visions"	: 42,
+		"cards":[
+			"set/cards_hidden_signs.json"
+		]
+	},
+
+	{
+		"id"		:"secrets-and-lies",
+		"setup"		: null,
+		"rules"		: null,
+		"visions"	: 42,
+		"cards":[
+			"set/cards_secrets_and_lies.json"
+		]
+	}
+]

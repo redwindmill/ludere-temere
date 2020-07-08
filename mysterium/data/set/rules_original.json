@@ -1,0 +1,271 @@
+[
+	{
+		"phase"		:"0-setup",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"Choose either 'object' or 'story' cards for the game; not both.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"The ghost maintains hand of seven vision cards. Up to seven cards may be given to a psychic in a single turn.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"The sand timer (2 minutes) is used after each psychic receives their vision card for the round.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"One raven per turn: The ghost can discard any number of their vision cards and draw new ones.",
+		"difficulties":[
+			"easy"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"Three ravens per game: The ghost can discard any number of their vision cards and draw new ones.",
+		"difficulties":[
+			"normal"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"One raven per game: The ghost can discard any number of their vision cards and draw new ones.",
+		"difficulties":[
+			"hard"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"One raven per game: The ghost discards all their vision cards and draw new ones.",
+		"difficulties":[
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"psychics",
+		"mode"		:"original",
+		"players"	:[ 4, 5, 6, 7 ],
+		"rule"		:"Psychics regain all spent clairvoyancy tokens on turn four. A psychic cannot vote more than once on the same intuition token.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"psychics",
+		"mode"		:"original",
+		"players"	:[ 4, 5, 6, 7 ],
+		"rule"		:"A psychic cannot use a clairvoyancy token more than once on the same intuition token. They cannot vote for their own intuition token either.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"psychics",
+		"mode"		:"original",
+		"players"	:[ 4, 5, 6, 7 ],
+		"rule"		:"When a psychic reveals their crime, they gain one clairvoyance point for each round remaining.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 2, 3 ],
+		"rule"		:"The clairvoyancy track, the related markers and tokens are not used.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 4, 5 ],
+		"rule"		:"The clairvoyancy track, related markers and tokens 1 to 4 are used.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 6, 7 ],
+		"rule"		:"The clairvoyancy track, related markers and tokens 1 to 6 are used.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"1-reconstruction",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 2, 3 ],
+		"rule"		:"Optionally, each player can play two psychics.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"2-reveal",
+		"context"	:"ghost",
+		"mode"		:"original",
+		"players"	:[ 2, 3, 4, 5, 6, 7 ],
+		"rule"		:"Three vision cards are chosen to represent murder. One for each kind (suspect, location, object). These cards are shuffled before placing them face down on the table along with the culprit token.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"2-reveal",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 2, 3 ],
+		"rule"		:"The three vision cards are placed face up.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"2-reveal",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 4, 5, 6, 7 ],
+		"rule"		:"The three vision cards are placed face down. Psychics vote based off their clairvoyancy total.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"2-reveal",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 2, 3 ],
+		"rule"		:"If the number of psychics is less than four. Create additional crimes (suspect, location, place) to bring the total up to four.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	},
+
+	{
+		"phase"		:"2-reveal",
+		"context"	:"setup",
+		"mode"		:"original",
+		"players"	:[ 2, 3 ],
+		"rule"		:"Psychics vote openly rather than in secret. At least two psychics must agree on a crime. If a player is using more than one psychic, that player only gets a single vote.",
+		"difficulties":[
+			"easy",
+			"normal",
+			"hard",
+			"insane",
+			"nightmare"
+		]
+	}
+]

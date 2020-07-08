@@ -1,0 +1,36 @@
+[
+	{
+		"id"	:"P1",
+		"kind"	:"suspect",
+		"desc"	:"gardener",
+		"set"	:"promo-2015"
+	},
+
+	{
+		"id"	:"P2",
+		"kind"	:"location",
+		"desc"	:"dinning-room",
+		"set"	:"promo-2015"
+	},
+
+	{
+		"id"	:"P3",
+		"kind"	:"object",
+		"desc"	:"spirit-board",
+		"set"	:"promo-2015"
+	},
+
+	{
+		"id"	:"P4",
+		"kind"	:"object",
+		"desc"	:"meeple",
+		"set"	:"promo-2016"
+	},
+
+	{
+		"id"	: "P5",
+		"kind"	:"story",
+		"desc"	:"seance",
+		"set"	:"promo-2017"
+	}
+]
