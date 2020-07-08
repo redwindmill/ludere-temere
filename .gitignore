@@ -1,0 +1,4 @@
+*~
+*.DS_Store
+rgpwd-go/bin/
+docker-rpi/tmp/
