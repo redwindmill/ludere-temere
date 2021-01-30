@@ -1,6 +1,6 @@
 ARG IMAGE_BASE
 FROM ${IMAGE_BASE}
-ENV KANBOARD_PIN=1.2.13 \
+ENV KANBOARD_PIN=1.2.18 \
 	KANBOARD_HASH=5c5eb3d4eb0f90fd8e10b68f43f065c68ffa67ca882edf13cf6b0aaf26422109
 
 RUN echo http://dl-cdn.alpinelinux.org/alpine/latest-stable/main > /etc/apk/repositories && \
@@ -42,6 +42,7 @@ RUN echo http://dl-cdn.alpinelinux.org/alpine/latest-stable/main > /etc/apk/repo
 		s6 \
 		subversion \
 		ssmtp \
+		tzdata
 		unzip \
 	&& rm -rf /var/www/localhost \
 	&& rm -f /etc/php7/php-fpm.d/www.conf

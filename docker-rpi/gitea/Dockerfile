@@ -1,7 +1,7 @@
 ARG IMAGE_BASE
 FROM ${IMAGE_BASE}
-ENV GITEA_PIN=1.10.3 \
-	GITEA_PIN_SHORT=1.10 \
+ENV GITEA_PIN=1.13.1 \
+	GITEA_PIN_SHORT=1.13 \
 	GITEA_HASH=3a0b6470a205c6b9f19a8b31469728f29818c58dd17e85a81ac4a928ab9f9512
 
 RUN echo http://dl-cdn.alpinelinux.org/alpine/latest-stable/main > /etc/apk/repositories && \
@@ -13,6 +13,7 @@ RUN echo http://dl-cdn.alpinelinux.org/alpine/latest-stable/main > /etc/apk/repo
 		curl \
 		gettext \
 		git \
+		gnupg \
 		linux-pam \
 		openssh \
 		s6 \
